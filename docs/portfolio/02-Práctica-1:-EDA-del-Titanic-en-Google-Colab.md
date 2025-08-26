@@ -1,9 +1,9 @@
 ---
-title: "Entrada 01 — Práctica 1: EDA del Titanic en Google Colab"
+title: "Entrada 02 — Práctica 1: EDA del Titanic en Google Colab"
 date: 2025-08-12
 ---
 
-# Entrada 01 — Práctica 1: EDA del Titanic en Google Colab
+# Entrada 02 — Práctica 1: EDA del Titanic en Google Colab
 
 ## Contexto
 Actividad introductoria a los datasets.
