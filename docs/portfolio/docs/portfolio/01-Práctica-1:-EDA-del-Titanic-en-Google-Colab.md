@@ -41,7 +41,7 @@ Se crearon múltiples gráficos para identificar relaciones:
 - Mapa de calor
 
 ## Evidencias
-- Dejo aquí el enlace al Google Colab: [PRÁCTICA 1](https://colab.research.google.com/drive/1mN_pvPaqD5K8tMUzzK7OV6Xvknqat-mH?usp=sharing)
+- Dejo aquí el enlace al Google Colab donde está el análisis completo: [PRÁCTICA 1](https://colab.research.google.com/drive/1mN_pvPaqD5K8tMUzzK7OV6Xvknqat-mH?usp=sharing)
 
 ## Reflexión
 Lo más desafiante: entender los datos que tengo enfrente, y saber lidiar con los datos faltantes.
