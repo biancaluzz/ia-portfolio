@@ -14,11 +14,11 @@ Actividad introductoria a los datasets.
 - Llegar a conclusiones a partir de la información procesada
 
 ## Actividades (con tiempos estimados)
-- 0. Investigación del Dataset del Titanic (10 min)
-- 1. Setup en Colab (5 min)
-- 2. Cargar el dataset de Kaggle (2 opciones) (5-10 min)
-- 3. Conocer el dataset (10 min)
-- 4. EDA visual con seaborn/matplotlib (15 min)
+0. Investigación del Dataset del Titanic (10 min)
+1. Setup en Colab (5 min)
+2. Cargar el dataset de Kaggle (2 opciones) (5-10 min)
+3. Conocer el dataset (10 min)
+4. EDA visual con seaborn/matplotlib (15 min)
 
 ## Desarrollo
 La práctica 1 se basó en comprender profundamente los datos, limpiarlos y descubrir patrones visuales iniciales.
