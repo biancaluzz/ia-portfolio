@@ -22,14 +22,18 @@ Actividad introductoria a los datasets.
 
 ## Desarrollo
 La práctica 1 se basó en comprender profundamente los datos, limpiarlos y descubrir patrones visuales iniciales.
+
 Se comenzó analizando y entendiendo que el dataset contiene información de los pasajeros del Titanic. Se indetificaron los datos disponibles y definió Survived como variable objetivo.
-Luego de configurar el entorno de Google Colab, accediendo a los archivos y librerías necesarias.
+
+Luego de configurar el entorno de Google Colab, se accedió a los archivos y librerías necesarias.
+
 Algunas funciones utilizadas:
 - shape -> dimensiones
 - head() -> visualizar primeras filas
 - info() -> tipos de datos de cada columna
 - describe() -> estadísticas descriptivas
 - isna().sum() -> cuantificación de valores faltantes
+
 Se crearon múltiples gráficos para identificar relaciones:
 - Countplot
 - Barplot
@@ -41,5 +45,7 @@ Se crearon múltiples gráficos para identificar relaciones:
 
 ## Reflexión
 Lo más desafiante: entender los datos que tengo enfrente, y saber lidiar con los datos faltantes.
+
 Lo más valioso: interpretar la información a través de la visualización en gráficos.
+
 Próximos pasos: hacer un análisis más profundo cruzando diferentes variables.
