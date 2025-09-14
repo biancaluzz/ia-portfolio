@@ -1,11 +1,11 @@
 ---
 title: "Índice del Portafolio"
-date: 2025-09-03
+date: 2025-09-14
 ---
 
-# Portafolio
+# 💼 Portafolio
 
-- Plantilla: [plantilla.md](plantilla.md)
+- Plantilla 📎: [plantilla.md](plantilla.md)
 - Primera entrada: [01-Práctica-1:-EDA-del-Titanic-en-Google-Colab.md](docs/portfolio/01-Práctica-1:-EDA-del-Titanic-en-Google-Colab.md)
 - Segunda entrada: [02-Práctica-2:-Feature-Engineering-simple-+-Modelo-base.md](docs/portfolio/02-Práctica-2:-Feature-Engineering-simple-+-Modelo-base.md)
 - Tercera entrada: 03-Práctica:-Publicar-tu-Portafolio-con-GitHub-Pages
