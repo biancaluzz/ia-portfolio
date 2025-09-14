@@ -6,7 +6,7 @@ date: 2025-08-12
 # Entrada 01 — Práctica 1: EDA del Titanic en Google Colab
 
 ## Contexto
-Actividad introductoria a los datasets.
+Actividad introductoria de análisis exploratorio de datos (EDA) utilizando el dataset de Titanic de Kaggle.
 
 ## Objetivos
 - Entender cómo se compone el dataset
@@ -41,7 +41,19 @@ Se crearon múltiples gráficos para identificar relaciones:
 - Mapa de calor
 
 ## Evidencias
-- Dejo aquí el enlace al Google Colab donde está el análisis completo: [PRÁCTICA 1](https://colab.research.google.com/drive/1mN_pvPaqD5K8tMUzzK7OV6Xvknqat-mH?usp=sharing)
+<img width="1189" height="989" alt="image" src="https://github.com/user-attachments/assets/e9e256fd-586f-4393-b3a6-32e6869858a1" />
+
+1. ¿Qué variables parecen más relacionadas con Survived? 
+Se observa una fuerte relacion entre el sexo y el grado de supervivencia, ya que la mayoria de las personas que no sobrevivieron fueron hombres. Por otro lado, la clase también tiene una tendencia, siendo que hay mayor supervivencia en 1era clase, seguido por segunda clase, y menor la supervivencia de la 3era clase.
+
+2. ¿Dónde hay más valores faltantes? ¿Cómo los imputarías? Observando los resultados arrojados por: "print(train.isna().sum().sort_values(ascending=False))"
+Hay una gran cantidad de datos faltantes en:
+    - Cabin, numero de cabina: como hay tantos faltantes tal vez es un dato que se puede descartar para el análisis, ya que con tanto dato nulo es dificil llegar a conclusiones certeras.
+    - Age, edad: imputar utilizando la edad promedio, para así no afectar significativamente los resultados.
+
+4. ¿Qué hipótesis probarías a continuación? Al encontrar que las mujeres sobreviven más y las personas de la 1era clase también, comprobar si también se mantiene este grado de supervivencia más alto para las mujeres en la primera clase.
+
+### Dejo aquí el enlace al Google Colab donde está el análisis completo: [PRÁCTICA 1](https://colab.research.google.com/drive/1mN_pvPaqD5K8tMUzzK7OV6Xvknqat-mH?usp=sharing)
 
 ## Reflexión
 Lo más desafiante: entender los datos que tengo enfrente, y saber lidiar con los datos faltantes.
