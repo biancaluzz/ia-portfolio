@@ -4,8 +4,8 @@ theme:
   language: es
   palette:
     - scheme: default
-      primary: pink-light
-      accent: pink-medium
+      primary: pink
+      accent: pink
       toggle:
         icon: material/weather-sunny
         name: Cambiar a modo oscuro
@@ -17,7 +17,6 @@ theme:
         name: Cambiar a modo claro
   font:
     text: Comic Neue
-    code: Roboto Mono
   features:
     - navigation.sections
     - navigation.indexes
