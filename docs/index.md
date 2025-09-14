@@ -1,6 +1,6 @@
 ---
 title: "Portafolio — Inicio"
-date: 2025-01-01
+date: 2025-08-12 - 2025-12-02
 ---
 
 # Portafolio — Inicio
