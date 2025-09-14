@@ -2,6 +2,22 @@ site_name: "Portfolio"
 theme:
   name: material
   language: es
+  palette:
+    - scheme: default
+      primary: pink-light
+      accent: pink-medium
+      toggle:
+        icon: material/weather-sunny
+        name: Cambiar a modo oscuro
+    - scheme: slate
+      primary: pink
+      accent: pink
+      toggle:
+        icon: material/weather-night
+        name: Cambiar a modo claro
+  font:
+    text: Comic Neue
+    code: Roboto Mono
   features:
     - navigation.sections
     - navigation.indexes
