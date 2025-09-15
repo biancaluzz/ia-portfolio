@@ -55,6 +55,13 @@ ANÁLISIS DE ESTABILIDAD:
     Pipeline + SearchCV siempre previene data leaking automáticamente.
     cross_val_score en el resultado final valida que la optimización no causó overfitting.
 
+<img width="989" height="790" alt="image" src="https://github.com/user-attachments/assets/4c37f1e4-eef6-4597-b691-410e9adcee70" />
+
+IMPORTANCIA POR CATEGORÍAS:
+Factores académicos: 0.6443
+Factores demográficos: 0.0499
+Factores económicos: 0.0769
+
 <img width="2472" height="1190" alt="image" src="https://github.com/user-attachments/assets/f45d2a52-761c-4f04-8b79-45e59b6f876b" />
 
 ESTADÍSTICAS DE LOS ÁRBOLES:
