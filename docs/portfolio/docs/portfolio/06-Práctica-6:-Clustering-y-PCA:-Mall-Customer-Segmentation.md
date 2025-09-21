@@ -1,6 +1,6 @@
 ---
 title: "Entrada 06 — Práctica 6: Clustering y PCA: Mall Customer Segmentation"
-date: 2025-09-02
+date: 2025-09-09
 ---
 
 # Entrada 06 — Práctica 6: Clustering y PCA: Mall Customer Segmentation
