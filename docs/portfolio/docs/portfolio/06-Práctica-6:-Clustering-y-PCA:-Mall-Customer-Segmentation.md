@@ -36,7 +36,7 @@ El análisis PCA permitió reducir la dimensionalidad de 4 a 2 componentes princ
 
 
 
-## Dejo aquí el enlace al Google Colab donde está el análisis completo: [PRÁCTICA 6]([https://colab.research.google.com/drive/1Gj7JAXMHdowOcMFGTdt4rauMzbKdlYhH?usp=sharing](https://colab.research.google.com/drive/1bFpBO1SDSvFfT15RNVKFCL6-Xx1zpwVF?usp=sharing))
+## Dejo aquí el enlace al Google Colab donde está el análisis completo: [PRÁCTICA 6](https://colab.research.google.com/drive/1bFpBO1SDSvFfT15RNVKFCL6-Xx1zpwVF?usp=sharing)
 
 ## Reflexión
 Lo más desafiante: Determinar el número óptimo de clusters, ya que el método del codo y el análisis de silueta sugerían diferentes números óptimos.
