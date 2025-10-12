@@ -1,5 +1,5 @@
 ---
-title: "Índice del Portafolio"
+title: "Índice del Portfolio"
 date: 2025-10-12
 ---
 
