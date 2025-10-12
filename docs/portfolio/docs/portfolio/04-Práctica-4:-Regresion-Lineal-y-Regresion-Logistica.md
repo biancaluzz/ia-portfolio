@@ -3,7 +3,7 @@ title: "Entrada 04 — Práctica 4: Regresion Lineal y Regresion Logistica"
 date: 2025-08-19
 ---
 
-# Entrada 04 — Práctica 4: Regresion Lineal y Regresion Logistica
+# 📊 Regresión Lineal vs. Logística
 
 ## Contexto
 Actividad de implementación y comparación de modelos de regresión lineal para predicción de valores continuos y regresión logística para problemas de clasificación binaria.
