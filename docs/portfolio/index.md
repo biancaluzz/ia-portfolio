@@ -17,3 +17,4 @@ date: 2025-10-12
 
 ## UT2: Deep Learning Foundations ⏬🤿
 - Séptima entrada: [🧠 Del Perceptrón a las Redes Neuronales: Descifrando los Límites y Potencial del Aprendizaje Profundo](docs/portfolio/07-Práctica-7:-De-Perceptrón-a-Redes-Neuronales.md)
+- Octava entrada: [🧪 Experimentación Sistemática con Redes Neuronales](docs/portfolio/08-Práctica-8:-Experimentación.md)
