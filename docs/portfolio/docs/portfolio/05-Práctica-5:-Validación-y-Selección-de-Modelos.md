@@ -3,7 +3,7 @@ title: "Entrada 05 — Práctica 5: Validación y Selección de Modelos"
 date: 2025-08-26
 ---
 
-# Entrada 05 — Práctica 5: Validación y Selección de Modelos
+# 🎯 Validación Cruzada y Selección de Modelos
 
 ## Contexto
 Implementación de técnicas de validación cruzada comparando algoritmos de clasificación para predecir el éxito académico estudiantil.
