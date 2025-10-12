@@ -3,7 +3,7 @@ title: "Entrada 02 — Práctica 2: Feature Engineering simple + Modelo base"
 date: 2025-08-12
 ---
 
-# Entrada 02 — Práctica 2: Feature Engineering simple + Modelo base
+# ⚙️ Cómo Mejorar las Predicciones de Supervivencia con Ingeniería de Características
 
 ## Contexto
 Actividad de modelado predictivo y evaluación de algoritmos de machine learning.
