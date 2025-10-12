@@ -3,7 +3,7 @@ title: "Entrada 06 — Práctica 6: Clustering y PCA: Mall Customer Segmentation
 date: 2025-09-09
 ---
 
-# Entrada 06 — Práctica 6: Clustering y PCA: Mall Customer Segmentation
+# 🛍️ Segmentación de Clientes: Descubriendo los Secretos Ocultos en los Datos de un Centro Comercial
 
 ## Contexto
 Implementación de técnicas de clustering para segmentar clientes de centros comerciales basándose en información demográfica y de comportamiento de compra.
