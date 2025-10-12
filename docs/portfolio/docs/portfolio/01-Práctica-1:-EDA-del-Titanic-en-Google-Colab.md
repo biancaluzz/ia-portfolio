@@ -3,7 +3,7 @@ title: "Entrada 01 — Práctica 1: EDA del Titanic en Google Colab"
 date: 2025-08-12
 ---
 
-# Entrada 01 — Práctica 1: EDA del Titanic en Google Colab
+# 🔍 Titanic: Análisis Exploratorio para Descubrir los Patrones de Supervivencia
 
 ## Contexto
 Actividad introductoria de análisis exploratorio de datos (EDA) utilizando el dataset de Titanic de Kaggle.
