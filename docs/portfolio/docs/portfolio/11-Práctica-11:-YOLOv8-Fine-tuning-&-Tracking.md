@@ -1,6 +1,6 @@
 ---
 title: "Entrada 11 — Práctica 11: YOLOv8 Fine-tuning & Tracking"
-date: 2025-09-21
+date: 2025-10-21
 ---
 
 # 🔍 Detección de Objetos con YOLO: Del Modelo Base al Fine-Tuning
