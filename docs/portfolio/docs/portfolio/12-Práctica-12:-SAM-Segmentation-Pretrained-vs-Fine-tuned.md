@@ -3,7 +3,7 @@ title: "Entrada 12 — Práctica 12: Segmentación Semántica con Segment Anythi
 date: 2025-10-28
 ---
 
-# 🎯 Segmentación Semántica con SAM: Explorando Modelos de Segmentación Zero-Shot
+# 📌 Segmentación Semántica con SAM: Explorando Modelos de Segmentación Zero-Shot
 
 ## Contexto
 Implementación del modelo Segment Anything (SAM) de Meta para realizar segmentación semántica en imágenes de áreas inundadas. El objetivo fue explorar las capacidades de un modelo de segmentación zero-shot en un dataset real de detección de agua.
