@@ -1,5 +1,5 @@
 ---
-title: "Entrada 11 — Práctica 11: Data Augmentation Avanzado & Explicabilidad"
+title: "Entrada 11 — Práctica 11: YOLOv8 Fine-tuning & Tracking"
 date: 2025-09-07
 ---
 
