@@ -3,7 +3,7 @@ title: "Entrada 09 — Práctica 9: Redes Convolucionales y Transfer Learning"
 date: 2025-09-30
 ---
 
-# 🎯 Redes Convolucionales y Transfer Learning: Del Cero a la Reutilización Inteligente
+# 🌐 Redes Convolucionales y Transfer Learning: Del Cero a la Reutilización Inteligente
 
 ## Contexto
 Implementación y comparación de dos enfoques fundamentales en visión por computadora: una CNN construida desde cero y un modelo de Transfer Learning utilizando MobileNetV2, aplicados ambos al dataset CIFAR-10 para clasificación de imágenes.
