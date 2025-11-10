@@ -1,6 +1,6 @@
 ---
 title: "Índice del Portfolio"
-date: 2025-10-12
+date: 2025-11-09
 ---
 
 # 💼 Portfolio
@@ -18,3 +18,9 @@ date: 2025-10-12
 ## UT2: Deep Learning Foundations ⏬🤿
 - Séptima entrada: [🧠 Del Perceptrón a las Redes Neuronales: Descifrando los Límites y Potencial del Aprendizaje Profundo](docs/portfolio/07-Práctica-7:-De-Perceptrón-a-Redes-Neuronales.md)
 - Octava entrada: [🧪 Experimentación Sistemática con Redes Neuronales](docs/portfolio/08-Práctica-8:-Experimentación.md)
+
+## UT3: Computer Vision 👁️👁️‍🗨️
+- Novena entrada: [🎯 Redes Convolucionales y Transfer Learning: Del Cero a la Reutilización Inteligente](docs/portfolio/docs/portfolio/09-Práctica-9:-CNNs-y-Transfer-Learning-con-TensorFlow.md)
+- Décima entrada: [🌸 Data Augmentation Avanzado & Explicabilidad: Clasificación de Flores](docs/portfolio/docs/portfolio/10-Práctica-10:-Data-Augmentation-Avanzado-&-Explicabilidad.md)
+- Onceava entrada: [🔍 Detección de Objetos con YOLO: Del Modelo Base al Fine-Tuning](docs/portfolio/docs/portfolio/11-Práctica-11:-YOLOv8-Fine-tuning-&-Tracking.md)
+- Doceava entrada: [🎯 Segmentación Semántica con SAM: Explorando Modelos de Segmentación Zero-Shot](docs/portfolio/docs/portfolio/12-Práctica-12:-SAM-Segmentation-Pretrained-vs-Fine-tuned.md)
