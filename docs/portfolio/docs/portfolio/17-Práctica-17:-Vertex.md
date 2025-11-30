@@ -32,6 +32,7 @@ La práctica culminó con el análisis comparativo de múltiples ejecuciones de 
 ## Evidencias
 ![Imagen de WhatsApp 2025-11-25 a las 20 24 49_b2ee8af8](https://github.com/user-attachments/assets/2e2b7ef5-0669-421f-b911-83f679953673)
 ![Imagen de WhatsApp 2025-11-25 a las 20 46 32_55213f48](https://github.com/user-attachments/assets/dd0bcd0a-d3d7-4912-8c50-e7bf0ea596ac)
+<img width="818" height="206" alt="image" src="https://github.com/user-attachments/assets/7da36eed-aca7-49b7-8afa-9cf586ee40bc" />
 
 ## Reflexión
 Lo más desafiante: comprender la arquitectura de componentes y cómo estos se comunican mediante inputs y outputs en el grafo de ejecución.
