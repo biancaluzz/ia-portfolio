@@ -37,8 +37,6 @@ label
 1.    1923
 0.    1442
 
-Name: count, dtype: int64
-
 <img width="540" height="394" alt="image" src="https://github.com/user-attachments/assets/cfc47022-592f-4e62-a2ba-7afb893355c8" />
 
 - ¿Cómo es la distribución de longitudes? ¿Qué implica para el truncation del tokenizer? La distribución muestra que la mayoría de textos tienen entre 5-20 tokens, con muy pocos superando 25 tokens. Esto confirma que un max_length de 128 es más que suficiente y que incluso podría disminuirse y funcionar.
