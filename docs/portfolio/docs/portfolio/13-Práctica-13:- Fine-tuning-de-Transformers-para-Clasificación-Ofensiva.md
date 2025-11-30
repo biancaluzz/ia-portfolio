@@ -26,15 +26,17 @@ Se utilizó el dataset zeroshot/twitter-financial-news-sentiment, que contiene t
 
 ## Evidencias
 
-0  $BYND - JPMorgan reels in expectations on Beyo...      0
-1  $CCL $RCL - Nomura points to bookings weakness...      0
-2  $CX - Cemex cut at Credit Suisse, J.P. Morgan ...      0
-3  $ESS: BTIG Research cuts to Neutral https://t....      0
-4  $FNKO - Funko slides after Piper Jaffray PT cu...      0
+0.  $BYND - JPMorgan reels in expectations on Beyo...      0
+
+1.  $CCL $RCL - Nomura points to bookings weakness...      0
+2.  $CX - Cemex cut at Credit Suisse, J.P. Morgan ...      0
+3.  $ESS: BTIG Research cuts to Neutral https://t....      0
+4.  $FNKO - Funko slides after Piper Jaffray PT cu...      0
 label
-2    6178
-1    1923
-0    1442
+2.    6178
+1.    1923
+0.    1442
+
 Name: count, dtype: int64
 
 <img width="540" height="394" alt="image" src="https://github.com/user-attachments/assets/cfc47022-592f-4e62-a2ba-7afb893355c8" />
