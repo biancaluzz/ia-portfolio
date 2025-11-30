@@ -1,13 +1,18 @@
 ---
-title: "Portafolio — Inicio"
+title: "Portfolio — Inicio"
 date: 2025-08-12 - 2025-12-02
 ---
 
-# Portafolio — Inicio
+# 🚀 Portfolio de Viaje en IA — Inicio
 
-Bienvenido al portafolio del curso. Aquí documentarás tu progreso,
-evidencias y reflexiones a lo largo del semestre.
+Bienvenido a mi portfolio del curso, donde documento mi progreso, evidencias y reflexiones de aprendizaje en inteligencia artificial a lo largo del semestre.
 
-- Revisa la sección "Acerca de mí" para presentarte.
-- Crea entradas en `Portfolio` usando la plantilla provista.
-- Mantén objetivos, actividades y evidencias claros por entrada.
+## 📚 Lo que encontrarás aquí
+
+- 👩 Revisa la sección "Acerca de mí" para conocerme.
+- 🎟️ Entradas en `Portfolio` con proyectos prácticos.
+  - Aplicaciones reales 💫
+  - Experimentos con diferentes modelos y técnicas 🧪
+  - Análisis de resultados 📊
+  - Reflexiones sobres desafíos y aprendizajes clave 💡
+
