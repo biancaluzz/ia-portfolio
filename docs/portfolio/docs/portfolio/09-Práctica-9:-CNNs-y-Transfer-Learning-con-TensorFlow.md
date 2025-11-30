@@ -22,7 +22,7 @@ Implementación y comparación de dos enfoques fundamentales en visión por comp
 5. Entrenamiento comparativo - Ambos modelos con callbacks (50 min)
 6. Evaluación y análisis - Métricas, visualización y conclusiones (30 min)
 
-Desarrollo
+## Desarrollo
 Se configuró el entorno TensorFlow/Keras con semillas para reproducibilidad. El sistema utilizó CPU para el procesamiento, asegurando accesibilidad independiente del hardware disponible.
 
 📊 Dataset CIFAR-10
