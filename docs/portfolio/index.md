@@ -27,5 +27,5 @@ date: 2025-11-09
 
 ## UT4: NLP y LLMs 💬🗣️
 - Treceava entrada: [😀 Análisis de Sentimiento en Noticias Financieras usando Transformers](docs/portfolio/13-Práctica-13:-Fine-tuning-de-Transformers-para-Clasificación-Ofensiva.md)
-- Catorceava entrada: [hola](docs/portfolio/14-Práctica-14:-LLMs-con-LangChain-(OpenAI)—Prompting,-Plantillas-y-Salida-Estructurada-(ES).md)
+- Catorceava entrada: [⚙️ Configuración y Parámetros de LLMs con LangChain](docs/portfolio/14-Práctica-14:-LLMs-con-LangChain-(OpenAI)—Prompting,-Plantillas-y-Salida-Estructurada-(ES).md)
 - Quinceava entrada: [👮‍♀️ Agentes con LangGraph: Construyendo Asistentes con Memoria y RAG](docs/portfolio/15-Práctica-15:-Agentes-con-LangGraph—RAG,-Tools-y-Memoria-Conversacional.md)
