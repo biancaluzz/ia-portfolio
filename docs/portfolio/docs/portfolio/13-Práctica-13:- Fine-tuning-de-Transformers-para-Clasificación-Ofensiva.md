@@ -120,8 +120,11 @@ weighted avg       0.81      0.80      0.80      1909
   - max_features=10000 no sobrecarga el modelo
 
 Epoch	Training Loss	Validation Loss	Accuracy	F1
+
 1	0.476500	0.403554	0.862232	0.809617
+
 2	0.262600	0.388149	0.871661	0.826117
+
 3	0.149000	0.469289	0.870613	0.827613
 
 - ¿Cuánto mejora el Transformer al baseline? ¿Dónde empeora?
