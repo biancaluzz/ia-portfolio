@@ -258,6 +258,7 @@ Esto confirma que con la regla "infiere", va a inferir.
 5. El prompt estricto cumplió: cero inferencias.
 Se mantuvo pegado al contexto, lo cual es lo esperado.
 
+## Dejo aquí el enlace al Google Colab donde está el análisis completo: [PRÁCTICA 14](https://colab.research.google.com/drive/1MIwekmPWzHJyxlHs5u_SddaeWs-FOpdp?usp=sharing)
 
 ## Reflexión
 Lo más desafiante: Ajustar los parámetros de generación (temperature, top_p) para diferentes casos de uso.
