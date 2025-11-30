@@ -9,7 +9,7 @@ Bienvenido a mi portfolio del curso, donde documento mi progreso, evidencias y r
 
 ## 📚 Lo que encontrarás aquí
 
-- 👩 Revisa la sección "Acerca de mí" para conocerme.
+- 👩 Revisa la sección `Acerca de mí` para conocerme.
 - 🎟️ Entradas en `Portfolio` con proyectos prácticos.
       - Aplicaciones reales 💫
       - Experimentos con diferentes modelos y técnicas 🧪
