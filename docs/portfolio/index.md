@@ -24,3 +24,8 @@ date: 2025-11-09
 - Décima entrada: [🌸 Data Augmentation Avanzado & Explicabilidad: Clasificación de Flores](docs/portfolio/10-Práctica-10:-Data-Augmentation-Avanzado-&-Explicabilidad.md)
 - Onceava entrada: [🔍 Detección de Objetos con YOLO: Del Modelo Base al Fine-Tuning](docs/portfolio/11-Práctica-11:-YOLOv8-Fine-tuning-&-Tracking.md)
 - Doceava entrada: [📌 Segmentación Semántica con SAM: Explorando Modelos de Segmentación Zero-Shot](docs/portfolio/12-Práctica-12:-SAM-Segmentation-Pretrained-vs-Fine-tuned.md)
+
+## UT4: NLP y LLMs 💬🗣️
+- Treceava entrada: [😀 Análisis de Sentimiento en Noticias Financieras usando Transformers](docs/portfolio/13-Práctica-13:- Fine-tuning-de-Transformers-para-Clasificación-Ofensiva.md)
+- Catorceava entrada: [hola](docs/portfolio/14-Práctica-14:-LLMs-con-LangChain-(OpenAI)—Prompting,-Plantillas-y-Salida-Estructurada-(ES).md)
+- Quinceava entrada: [👮‍♀️ Agentes con LangGraph: Construyendo Asistentes con Memoria y RAG](docs/portfolio/15-Práctica-15:-Agentes-con-LangGraph—RAG,-Tools-y-Memoria-Conversacional.md)
