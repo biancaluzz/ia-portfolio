@@ -29,3 +29,7 @@ date: 2025-11-09
 - Treceava entrada: [😀 Análisis de Sentimiento en Noticias Financieras usando Transformers](docs/portfolio/13-Práctica-13:-Fine-tuning-de-Transformers-para-Clasificación-Ofensiva.md)
 - Catorceava entrada: [⚙️ Configuración y Parámetros de LLMs con LangChain](docs/portfolio/14-Práctica-14:-LLMs-con-LangChain-(OpenAI)—Prompting,-Plantillas-y-Salida-Estructurada-(ES).md)
 - Quinceava entrada: [👮‍♀️ Agentes con LangGraph: Construyendo Asistentes con Memoria y RAG](docs/portfolio/15-Práctica-15:-Agentes-con-LangGraph—RAG,-Tools-y-Memoria-Conversacional.md)
+
+## UT5: MLOps 👨🏼‍💻🛠️
+- Dieciseisava entrada: [☁️ Introducción a Google Cloud Platform](docs/portfolio/16-Práctica-16:-Explorando-Gcloud.md)
+- Diecisieteava entrada: [📐 Vertex AI Pipelines](docs/portfolio/17-Práctica-17:-Vertex.md)
