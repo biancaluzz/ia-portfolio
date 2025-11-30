@@ -11,8 +11,8 @@ Bienvenido a mi portfolio del curso, donde documento mi progreso, evidencias y r
 
 - 👩 Revisa la sección "Acerca de mí" para conocerme.
 - 🎟️ Entradas en `Portfolio` con proyectos prácticos.
-  - Aplicaciones reales 💫
-  - Experimentos con diferentes modelos y técnicas 🧪
-  - Análisis de resultados 📊
-  - Reflexiones sobres desafíos y aprendizajes clave 💡
+      - Aplicaciones reales 💫
+      - Experimentos con diferentes modelos y técnicas 🧪
+      - Análisis de resultados 📊
+      - Reflexiones sobres desafíos y aprendizajes clave 💡
 
