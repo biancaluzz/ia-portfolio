@@ -16,7 +16,7 @@ El objetivo principal fue comprender y construir pipelines de ML escalables usan
 2. Pipeline introductorio (5 min)
 3. Pipeline completo AutoML (10 min)
 4. Ejecución y monitoreo (20 min)
-5. Análisis de métricas (10 min):
+5. Análisis de métricas (10 min)
 
 ## Desarrollo
 La experiencia comenzó con la configuración del entorno en Vertex AI Workbench, instalando las bibliotecas esenciales como Kubeflow Pipelines SDK y Google Cloud Pipeline Components.
