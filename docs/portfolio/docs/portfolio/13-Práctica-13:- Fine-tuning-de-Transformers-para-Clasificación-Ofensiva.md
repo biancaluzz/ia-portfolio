@@ -105,7 +105,9 @@ and: 760
            2       0.88      0.86      0.87      1236
 
     accuracy                           0.80      1909
+  
    macro avg       0.73      0.74      0.74      1909
+  
 weighted avg       0.81      0.80      0.80      1909
 
 <img width="392" height="316" alt="image" src="https://github.com/user-attachments/assets/78cb888b-5bd7-4353-9db8-14727add7346" />
