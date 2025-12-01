@@ -258,6 +258,38 @@ Esto confirma que con la regla "infiere", va a inferir.
 5. El prompt estricto cumplió: cero inferencias.
 Se mantuvo pegado al contexto, lo cual es lo esperado.
 
+### Chatbot de Soporte “FAQ + WebSearch”
+<img width="1919" height="859" alt="image" src="https://github.com/user-attachments/assets/f16d8ff5-7dfe-44a6-9555-c53ffc8097fc" />
+
+#### Cómo Funciona
+
+1. **Documentos de Ejemplo**
+   - 8 documentos de ejemplo sobre "Producto X" (una herramienta ficticia de gestión de proyectos)
+   - Indexados con FAISS usando embeddings de OpenAI
+   - Recupera los 3 fragmentos más relevantes para cada consulta
+
+2. **Lógica de Decisión**
+   - Si el contexto de las FAQ es suficiente (>50 caracteres), usa solo el conocimiento local (alta confianza)
+   - Si las FAQ son insuficientes, activa búsqueda web con DuckDuckGo (confianza media/baja)
+
+3. **Estructura de Respuesta**
+   - Usa modelos Pydantic para definir el formato de salida JSON
+   - Devuelve: respuesta, fuentes (título + URL), nivel de confianza
+
+4. **Parámetros del Modelo**
+   - Modelo: GPT-3.5-turbo (rápido y económico)
+   - Temperature: 0.3 (equilibrio entre precisión y creatividad)
+   - Recuperación: 3 fragmentos principales de las FAQ
+
+##### Instrucciones de Configuración
+- **Ejecutar Todas las Celdas**: Ejecuta el notebook de arriba a abajo
+- **Probar**: El script prueba automáticamente 3 preguntas de ejemplo
+
+##### Personalización
+- **Agregar más FAQs**: Extiende la lista `faq_documents`
+- **Ajustar umbral**: Cambia el umbral de 50 caracteres para activar búsqueda web
+- **Modificar salida**: Actualiza el modelo Pydantic `BotResponse`
+
 ## Dejo aquí el enlace al Google Colab donde está el análisis completo: [PRÁCTICA 14](https://colab.research.google.com/drive/1MIwekmPWzHJyxlHs5u_SddaeWs-FOpdp?usp=sharing)
 
 ## Reflexión
